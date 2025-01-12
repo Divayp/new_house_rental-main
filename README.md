@@ -7,7 +7,6 @@
 ### PHP </br>
 #### Database:
 ### MySQL </br></br>
-Author : Ramesh Kumar Yadav </br>
-LinkedIn: <a href="https://www.linkedin.com/in/munaimpro/" target="_blank">Janakpur</a> </br>
-Facebook: <a href="https://facebook.com/webcodermunaim" target="_blank">Web Coder Munaim</a> </br>
-Twitter: <a href="https://twitter.com/munaimpro" target="_blank">munaimpro</a>
+Author : Divay Prakash Yadav </br>
+LinkedIn: <a https://www.linkedin.com/in/divayprakashyadav" target="_blank">Janakpur</a> </br>
+
